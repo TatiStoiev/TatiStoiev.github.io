@@ -1,0 +1,32 @@
+
+body {
+    background-color: rgb(218, 190, 190);
+}
+
+.nome{
+    color: rgb(196, 141, 141);
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.pessoal{
+    color: rgb(109, 69, 69);
+    font-size: 20px;
+    line-height: 2;
+}
+
+.skills{
+    color:rgb(196, 141, 141);
+    font-size: 30px;
+}
+
+ul{
+    color: rgb(109, 69, 69);
+    font-size: 20px;
+    line-height: 2;
+}
+
+.artigo{
+    color: rgb(109, 69, 69);
+    font-size: 20px;
+}
