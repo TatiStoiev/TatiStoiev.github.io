@@ -1,0 +1,10 @@
+
+body {
+    background-color: rgb(218, 190, 190);
+}
+
+.nome{
+    color: rgb(196, 141, 141);
+    font-weight: bold;
+    font-size: 40px;
+}
