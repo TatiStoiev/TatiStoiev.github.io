@@ -3,10 +3,22 @@ body {
     background-color: rgb(218, 190, 190);
 }
 
+.descrição {
+    position: absolute;
+    top: 5%;
+    left: 30%;
+    right: 10%;
+    text-align: justify;
+    font-size: 20px;
+    color:rgb(109, 69, 69);
+    line-height: 2;
+}
+
 .nome{
     color: rgb(196, 141, 141);
     font-weight: bold;
     font-size: 40px;
+    text-align: center;
 }
 
 .pessoal{
@@ -29,4 +41,15 @@ ul{
 .artigo{
     color: rgb(109, 69, 69);
     font-size: 20px;
+}
+
+.image-container {
+    height: 260px;
+    position: relative;
+  }
+
+#foto {
+  float: left;
+  padding: 10px;
+ 
 }
